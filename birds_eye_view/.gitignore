@@ -1,0 +1,15 @@
+.vscode/
+**/*.ipynb
+**__pycache__**
+**/*.pyc
+*.pth
+*.t7
+*.pt
+*.mat
+*.mp4
+.ipynb_checkpoints/
+/weights/*
+# 重いのでvenvファイルは無視
+
+project/
+
