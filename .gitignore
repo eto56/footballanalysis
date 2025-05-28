@@ -1,0 +1,11 @@
+.vscode/
+**/*.ipynb
+**__pycache__**
+**/*.pyc
+*.pth
+*.t7
+*.pt
+*.mat
+*.mp4
+
+/ARVR-AR/

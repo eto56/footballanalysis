@@ -1,0 +1,76 @@
+File: main.py
+['elements/yolo', 'elements/deep_sort', 'elements/perspective_transform', 'elements/assets', 'arguments', 'yolov5/utils/plots', 'annotation', 'torch', 'os', 'cv2', 'numpy', 'sys']
+-----------------------
+File: elements/yolo.py
+['torch', 'cv2', 'numpy', 'yolov5/models/experimental', 'yolov5/utils/general']
+-----------------------
+File: yolov5/models/experimental.py
+['numpy', 'torch', 'torch/nn', 'yolov5/models/common', 'yolov5/utils/google_utils', 'yolov5/models/yolo']
+-----------------------
+File: yolov5/models/common.py
+['math', 'copy', 'pathlib', 'numpy', 'pandas', 'requests', 'torch', 'torch/nn', 'PIL', 'torch/cuda', 'yolov5/utils/datasets', 'yolov5/utils/general', 'yolov5/utils/plots', 'yolov5/utils/torch_utils', 'warnings']
+-----------------------
+File: yolov5/utils/datasets.py
+['glob', 'hashlib', 'logging', 'math', 'os', 'random', 'shutil', 'time', 'itertools', 'multiprocessing/pool', 'pathlib', 'threading', 'cv2', 'numpy', 'torch', 'torch/nn/functional', 'PIL', 'torch/utils/data', 'tqdm', 'yolov5/utils/general', 'yolov5/utils/torch_utils', 'pafy']
+-----------------------
+File: yolov5/utils/general.py
+['contextlib', 'glob', 'logging', 'math', 'os', 'platform', 'random', 're', 'signal', 'time', 'urllib', 'itertools', 'multiprocessing/pool', 'pathlib', 'subprocess', 'cv2', 'numpy', 'pandas', 'pkg_resources', 'torch', 'torchvision', 'yaml', 'yolov5/utils/google_utils', 'yolov5/utils/metrics', 'yolov5/utils/torch_utils', 'socket', 'google/colab']
+-----------------------
+File: yolov5/utils/google_utils.py
+['os', 'platform', 'subprocess', 'time', 'urllib', 'pathlib', 'requests', 'torch']
+-----------------------
+File: yolov5/utils/metrics.py
+['pathlib', 'matplotlib/pyplot', 'numpy', 'torch', 'seaborn']
+-----------------------
+File: yolov5/utils/torch_utils.py
+['datetime', 'logging', 'math', 'os', 'platform', 'subprocess', 'time', 'contextlib', 'copy', 'pathlib', 'torch', 'torch/backends/cudnn', 'torch/nn', 'torch/nn/functional', 'torchvision', 'thop', 'torch/nn/utils/prune', 'thop']
+-----------------------
+File: yolov5/utils/plots.py
+['glob', 'math', 'os', 'random', 'copy', 'pathlib', 'cv2', 'matplotlib', 'matplotlib/pyplot', 'numpy', 'pandas', 'seaborn', 'torch', 'yaml', 'PIL', 'yolov5/utils/general', 'yolov5/utils/metrics', 'scipy/signal']
+-----------------------
+File: yolov5/models/yolo.py
+['argparse', 'logging', 'sys', 'copy', 'pathlib', 'yolov5/models/common', 'yolov5/models/experimental', 'yolov5/utils/autoanchor', 'yolov5/utils/general', 'yolov5/utils/torch_utils', 'thop', 'yaml']
+-----------------------
+File: yolov5/utils/autoanchor.py
+['numpy', 'torch', 'yaml', 'tqdm', 'utils/general', 'scipy/cluster/vq', 'utils/datasets']
+-----------------------
+File: elements/deep_sort.py
+['torch', 'deep_sort_pytorch/utils/parser', 'deep_sort_pytorch/deep_sort', 'elements/assets']
+-----------------------
+File: deep_sort_pytorch/utils/parser.py
+['os', 'yaml', 'easydict', 'ipdb']
+-----------------------
+File: elements/assets.py
+['cv2', 'sklearn/cluster', 'numpy']
+-----------------------
+File: elements/perspective_transform.py
+['pyflann', 'scipy/io', 'numpy', 'cv2', 'perspective_transform/util/synthetic_util', 'perspective_transform/util/iou_util', 'perspective_transform/util/projective_camera', 'arguments', 'perspective_transform/models/models', 'PIL', 'os', 'torch', 'torchvision/transforms', 'torch/backends/cudnn', 'perspective_transform/deep/siamese', 'perspective_transform/deep/camera_dataset']
+-----------------------
+File: perspective_transform/util/synthetic_util.py
+['numpy', 'cv2', 'perspective_transform/util/rotation_util', 'perspective_transform/util/projective_camera']
+-----------------------
+File: perspective_transform/util/rotation_util.py
+['numpy', 'math', 'cv2']
+-----------------------
+File: perspective_transform/util/projective_camera.py
+['numpy', 'cv2']
+-----------------------
+File: perspective_transform/util/iou_util.py
+['cv2', 'numpy', 'projective_camera']
+-----------------------
+File: arguments.py
+['argparse', 'torch', 'os', 'perspective_transform/util']
+-----------------------
+File: perspective_transform/models/models.py
+['cycle_gan_model', 'pix2pix_model', 'two_pix2pix_model', 'test_model']
+-----------------------
+File: perspective_transform/deep/siamese.py
+['torch/nn', 'torch', 'numpy', 'contrastive_loss']
+-----------------------
+File: perspective_transform/deep/camera_dataset.py
+['random', 'PIL', 'numpy', 'torch', 'torch/utils/data/dataset', 'cv2', 'scipy/io', 'torchvision/transforms']
+-----------------------
+File: annotation.py
+['json', 'typing']
+-----------------------
+Visited files: {'yolov5/utils/autoanchor', 'test_model', 'requests', 'scipy/cluster/vq', 'perspective_transform/deep/camera_dataset', 'projective_camera', 'urllib', 'socket', 'arguments', 'torchvision', 'elements/deep_sort', 'elements/assets', 'time', 'deep_sort_pytorch/deep_sort', 'typing', 'pathlib', 'yolov5/utils/plots', 'yolov5/models/experimental', 'perspective_transform/models/models', 'deep_sort_pytorch/utils/parser', 'platform', 'two_pix2pix_model', 'datetime', 'copy', 'contrastive_loss', 'pafy', 'warnings', 'torch', 'multiprocessing/pool', 'numpy', 'os', 'logging', 'cv2', 'torch/backends/cudnn', 'perspective_transform/util/projective_camera', 'yolov5/utils/google_utils', 'yolov5/utils/torch_utils', 'perspective_transform/util/iou_util', 'main.py', 'PIL', 'scipy/signal', 'perspective_transform/deep/siamese', 'utils/general', 'torch/nn', 'sys', 'argparse', 'json', 'pyflann', 'math', 'thop', 'perspective_transform/util/synthetic_util', 'elements/yolo', 'glob', 'torch/utils/data/dataset', 'yolov5/models/common', 'tqdm', 'pkg_resources', 'torch/utils/data', 'shutil', 'seaborn', 'contextlib', 'ipdb', 'sklearn/cluster', 'utils/datasets', 'threading', 'signal', 'perspective_transform/util/rotation_util', 'torchvision/transforms', 'yolov5/utils/general', 'itertools', 'torch/nn/utils/prune', 'random', 'easydict', 'matplotlib', 'perspective_transform/util', 'hashlib', 're', 'yolov5/utils/metrics', 'google/colab', 'yolov5/models/yolo', 'matplotlib/pyplot', 'scipy/io', 'subprocess', 'torch/nn/functional', 'pandas', 'pix2pix_model', 'cycle_gan_model', 'elements/perspective_transform', 'yolov5/utils/datasets', 'annotation', 'yaml', 'torch/cuda'}
