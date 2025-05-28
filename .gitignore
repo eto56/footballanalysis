@@ -7,5 +7,6 @@
 *.pt
 *.mat
 *.mp4
-
-/ARVR-AR/
+ 
+!sample_output/example1.mp4
+!sample_output/example2.mp4
